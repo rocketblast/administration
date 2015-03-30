@@ -1,5 +1,11 @@
 # Administration
-This is the place you can find documentation about in-game commands and other stuff you can use on Rocket Blast's battlefield servers.
+This is the place you can find documentation about in-game commands and other stuff you can use on Rocket Blast's battlefield servers.  
+Feel free to contribute through Pull requests and issues.
 
-[In-game commands](commands.md)
-[Violation guide](violations-guide.md)
+### Table of Contents
+**[In-game commands](#commands.md)**  
+**[Violation guide](#violations-guide.md)**
+
+
+### License
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
