@@ -4,7 +4,7 @@ Feel free to contribute through Pull requests and issues.
 
 ### Table of Contents
 **[In-game commands](commands.md)**  
-**[Violation guide](violations-guide.md)**
+**[Violation guide](violations-guide.md)**  
 **[Player Statistics Analysis - How-to](player-statistics-analysis-how-to.md)**
 
 ### License
