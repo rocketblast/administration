@@ -1,5 +1,5 @@
 # Administration
-This is the place you can find documentation about in-game commands and other stuff you can use on Rocket Blast's battlefield servers.  
+This is the place where you can find documentation about in-game commands and other stuff you can use on Rocket Blast's battlefield servers.  
 Feel free to contribute through Pull requests and issues.
 
 ### Table of Contents
