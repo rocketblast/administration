@@ -3,8 +3,8 @@ This is the place you can find documentation about in-game commands and other st
 Feel free to contribute through Pull requests and issues.
 
 ### Table of Contents
-**[In-game commands](#commands.md)**  
-**[Violation guide](#violations-guide.md)**
+**[In-game commands](commands.md)**  
+**[Violation guide](violations-guide.md)**
 
 
 ### License
