@@ -34,7 +34,7 @@ Most arguments are considered special in this system. Normal arguments would be 
 
 
 ##Commands
-* !rules
+* /rules or /help
 * /reasons (might not work, too many reasons to be displayed with the limit of 256 characters per line)
 * /durations
 * /say <text>
