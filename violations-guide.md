@@ -11,7 +11,7 @@ Subsequent bans should, but does not have to, be longer
 * Team killing - tk - Be cautious on HC when banning for team killing
 * Bug abuse - bug, abuse
 * Map glitching - glitching
-* Inappropriate language - language - Warn/Kick/Ban - 1 hour to permanent
+* Inappropriate language - language - Warn/Kill/Kick/Ban - 1 hour to permanent
 * Racism - racism - Subsequent bans should be longer, usually it is 1w -> 1m -> perm
 * Inappropriate name - name, nick - //TBD: How to handle these cases.
 * Swe/eng only in chat - sweeng
