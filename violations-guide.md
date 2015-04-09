@@ -36,5 +36,6 @@ Warn the player(s) trough /yell, /warn (or /pyell if implemented)
 * Third Ban: **1 week**
 * Fourth Ban: **1 month**
 * Fifth Ban: **Permanent**
+* 6th ban: **BANNER FOREVERAH ENJOY**
 
 Feedback is appreciated
