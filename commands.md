@@ -45,6 +45,7 @@ Most arguments are considered special in this system. Normal arguments would be 
 * /ban <nickname> <reason> <duration>
 * /move <nickname>
 * /slay <nickname>
+* /report <nickname> <reason>
 
 
 There are a few more commands in the system and there is also a lot more you can do with the already listed commands. But to keep it reasonably simple we will leave it at that for this guide.
