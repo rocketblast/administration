@@ -30,7 +30,7 @@ Suggested standard procedure when banning and increasing duration of ban for sub
 This applies to all reasons that are not Racism and/or Cheating and/or Glitching
 
 #First Action:
-Warn the player(s) trough /yell, /warn (or /pyell if implemented)
+Warn the player(s) through /yell, /warn (or /pyell if implemented)
 * First Ban: **1 hour**
 * Second Ban: **1 day**
 * Third Ban: **1 week**
