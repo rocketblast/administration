@@ -1,3 +1,5 @@
+# Rules for admins
+
 ### What you must do
 
 If someone breaks the rules you must issue them the relevant punishment, no matter if you know this person and they are your
