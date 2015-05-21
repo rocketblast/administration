@@ -8,6 +8,16 @@ Feel free to contribute through Pull requests and issues.
 **[Violation guide](violations-guide.md)**  
 **[Player Statistics Analysis - How-to](player-statistics-analysis-how-to.md)**
 
+### Team Speak 3 Server
+
+Rocketblast of course has a Team Speak 3 server, this is open to everyone not just administrators and can be found here - ts3.rocketblast.com this is also a good place to find an admin should you need one. If you are an admin and want admin powers on our TS3 server please speak to KillerWhalSam.
+
+### Slack
+
+Slack is an isntant messaging system we use to speak to each other, on slack we have a variation of bot, one of these bots will tell us when a player is being reported and why, for example;
+![alt tag](http://i.imgur.com/KVLv9K7.png)
+In addition to 'ReportBot' we also have Lola who will tell us the status of our servers upon saying '!status'
+![alt tag](http://i.imgur.com/2ZMo4wH.png)
 
 ### License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
