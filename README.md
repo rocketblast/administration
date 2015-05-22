@@ -8,6 +8,7 @@ Feel free to contribute through Pull requests and issues.
 **[Violation guide](violations-guide.md)**  
 **[Player Statistics Analysis - How-to](player-statistics-analysis-how-to.md)**
 **[How to use Raiucon](how-to-use-Raiucon.md)**
+**[How to use Rocketcon](how-to-use-Rocketcon.md)**
 
 ### Team Speak 3 Server
 
