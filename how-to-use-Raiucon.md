@@ -27,7 +27,7 @@ Then a box will appear, in that box you select the reason you wish to send the c
 wish to send, if you are banning a player you must also select the time of the ban,
 ![alt tag](http://i.imgur.com/BMxZwQb.png)
 
-### 5) How do I send commands to the a majot part of the server?
+### 5) How do I send commands to a major part of the server?
 
 Firstly click 'Server' you will then be presented with 3 options
 ![alt tag](http://i.imgur.com/0YBwQfu.png)
