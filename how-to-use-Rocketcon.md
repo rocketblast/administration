@@ -9,7 +9,7 @@ Rocketcon is a web based tool that we use to administrate our BF4 servers,
 
 Go to http://admin.rocketblast.com/ then enter your e-Mail & Password and login, you should of been informed as to what
 this is,
-![alt tag](i.imgur.com/uv7frmT.jpg)
+![alt tag](http://i.imgur.com/RvMneaW.png)
 
 ### 3) How do I go to the server?
 
