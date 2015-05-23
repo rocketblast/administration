@@ -53,5 +53,5 @@ spell their name correctly including capitilization.
 
 You can now go to - http://raiucon.rocketblast.com/punishments, you should then look to the right and find the box
 saying 'Add ban' then enter the players name, the reason you are banning him and also the time, you should take past
-bans into accoutn whilst deciding this, for cheating it is always permenant so will look like this,
+bans into account whilst deciding this, for cheating it is always permenant so will look like this,
 ![alt tag](http://i.imgur.com/FgqOs1N.png)
