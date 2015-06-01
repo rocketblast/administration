@@ -37,16 +37,17 @@ Most arguments are considered special in this system. Normal arguments would be 
 * /rules or /help
 * /reasons (might not work, too many reasons to be displayed with the limit of 256 characters per line)
 * /durations
-* /say <text>
-* /yell <text>
-* /psay <nickname> <text>
-* /pyell <nickname> <text>
-* /kick <nickname> <reason>
-* /ban <nickname> <reason> <duration>
-* /move <nickname>
-* /slay <nickname>
-* /report <nickname> <reason>
-* /nuke <team:number> (1-US & 2-CN in BF4)
+* /say `<text>`
+* /yell `<text>`
+* /psay `<nickname>` `<text>`
+* /pyell `<nickname>` `<text>`
+* /kick `<nickname>` `<reason>`
+* /ban `<nickname>` `<reason>` `<duration>`
+* /move `<nickname>`
+* /slay `<nickname>`
+* /report `<nickname>` `<reason>`
+* /admin `<message>`
+* /nuke `<team:number>` (1-US & 2-CN in BF4)
 
 Sample command: 
 `/ban edvin perm cheat` `/kick edvin ping` `/move edvin` `/say Hi Server!`
