@@ -12,7 +12,7 @@ Feel free to contribute through Pull requests and issues.
 
 ### Team Speak 3 Server
 
-Rocket Blast of course has a Team Speak 3 server, this is open to everyone not just administrators and can be found here - ts3.rocketblast.com this is also a good place to find an admin should you need one. If you are an admin and want admin powers on our TS3 server please speak to KillerWhalSam.
+Rocket Blast of course has a Team Speak 3 server, this is open to everyone not just administrators and can be found here - ts3.rocketblast.com this is also a good place to find an admin should you need one. If you are an admin and want admin powers on our TS3 server please speak to Sam.
 
 ### Slack
 
