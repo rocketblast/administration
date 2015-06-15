@@ -5,6 +5,7 @@
 The Player Command Menu is this,       
 ![alt tag] (http://i.imgur.com/PnwMOFq.png )    
 To select an option you must just press the number of that option.    
+When selecting a player, reason or length press 8 to view the next page of these options.
 
 ### 1) Opening the admin menu
 To open the admin menu type `</admin>` in to chat, which will open this,   
@@ -35,7 +36,9 @@ Banning is used for when someone needs an enforced tempoary/permanent break from
 ![alt tag](http://i.imgur.com/v69dyJX.png)      
 You must from here select the player, once you have selected the player this will be shown,
 ![alt tag](http://i.imgur.com/x23VU0p.png)    
-You must from this menu select the length of a ban.
+You must from this menu select the length of a ban. Then you will see this,
+![alt tag](http://i.imgur.com/yUd7BnB.png)
+On this screen you must select the ban length.
 
 ### 7) Identifying a player,
 You can identify a player, to do so you must open the Player Commands menu and select `<5>` then you will see this,
