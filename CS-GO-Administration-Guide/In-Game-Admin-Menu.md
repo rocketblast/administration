@@ -45,6 +45,6 @@ You must select the player from here, this will then return by showing you their
 ![alt tag](http://i.imgur.com/VLoV07U.png)
 
 ### 8) Renaming a player
-You can rename a player, this is meant for when someone has an offensive name, this mixes up their name. To rename a player you must open the Player Commands menu and select `<6>` then this will be shown to you,    
-![alt tag](http://i.imgur.com/f4akGX9.png)
-You must then select the player you wish to rename and they will be renamed.
+You can rename a player, this is meant for when someone has an offensive name, this mixes up their name. To rename a player you must open the Player Commands menu and select `<6>` then this will be shown to you,        
+![alt tag](http://i.imgur.com/f4akGX9.png)    
+You must then select the player you wish to rename and they will be renamed.  
