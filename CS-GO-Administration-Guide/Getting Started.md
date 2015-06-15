@@ -1,4 +1,4 @@
-#The Admin Menu
+#Getting Started
 In this guide you will be shown how to use the In Game Admin menu. For CS:GO we have niether a Web Based Administration
 panel nor in game commands however we have an In Game Menu, this makes server administration easy. Although the menu is
 relatively simple we have created some guides which should make it easier for you to get started.
@@ -10,4 +10,5 @@ Hosted by RocketBlast yet, we reccomend you apply [here.](http://bit.ly/adminrb)
 
 ###Contents
 
-
+**[In Game Admin Menu]( In-Game-Admin-Menu.md)**  
+**[Punishments](punishments.md)**  
