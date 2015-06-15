@@ -26,16 +26,15 @@ you from here select the damage you wish to inflict on a player, then,
 you must then select which player to inflict this damage upon.
 
 ### 4) Kicking a player
-Kicking is a simple and crucial command, this is used before you ban a player (exceptions apply), to access this tool you
-must first go to the Player Commands menu and select `<3>` to open the kick menu. You will then be presented with this,   
-![alt tag](http://i.imgur.com/Yxta8ou.png)
-Upon seeing this screen you are to select the player you wish to click.
-
+Kicking is a simple and crucial command, this is used before you ban a player (exceptions apply), to access this tool you must first go to the Player Commands menu and select `<3>` to open the kick menu. You will then be presented with this,   
+![alt tag](http://i.imgur.com/Yxta8ou.png)       
+Upon seeing this screen you are to select the player you wish to click.    
+ 
 ### 5) Banning a player
 Banning is used for when someone needs an enforced tempoary/permanent break from our servers, to ban a player you must open the Player Commands menu and then press `<4>`. At which point this menu will be presented to you,
-![alt tag](http://i.imgur.com/v69dyJX.png)    
+![alt tag](http://i.imgur.com/v69dyJX.png)      
 You must from here select the player, once you have selected the player this will be shown,
-![alt tag](http://i.imgur.com/x23VU0p.png)
+![alt tag](http://i.imgur.com/x23VU0p.png)    
 You must from this menu select the length of a ban.
 
 ### 7) Identifying a player,
