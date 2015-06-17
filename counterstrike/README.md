@@ -3,6 +3,6 @@ This is the place where you can find documentation about in-game commands and ot
 counterstrike servers. Feel free to contribute through Pull requests and issues.
 
 ### Table of Contents
-**[Getting Started](getting-started.md)**   
-**[Punishments](punishments.md)**  
-**[Admin Menu](admin-menu.md)**  
+* **[Getting Started](getting-started.md)**   
+* **[Punishments](punishments.md)**  
+* **[Admin Menu](admin-menu.md)**  
