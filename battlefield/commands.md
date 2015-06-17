@@ -47,7 +47,7 @@ Most arguments are considered special in this system. Normal arguments would be 
 * /slay `<nickname>`
 * /report `<nickname>` `<reason>`
 * /admin `<message>`
-* /nuke `<team:number>` (1-US & 2-CN in BF4)
+* /nuke `<team:number>` (1-US & 2-CN in Battlefield 4)
 
 Sample command: 
 `/ban edvin perm cheat` `/kick edvin ping` `/move edvin` `/say Hi Server!`

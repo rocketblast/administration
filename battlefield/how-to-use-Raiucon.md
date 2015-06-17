@@ -1,8 +1,8 @@
-#How to use Raiucon for BF3?
+#How to use Raiucon for Battlefield 3?
 
 ### 1) What is Raiucon?
 
-Raiucon is a web based tool that we use to administrate our BF3 server, 
+Raiucon is a web based tool that we use to administrate our Battlefield 3 server, 
 ![alt tag](http://i.imgur.com/cgTNjOF.png)
 After seeing that image you may be wondering how it works so we have created this guide for you,
 
