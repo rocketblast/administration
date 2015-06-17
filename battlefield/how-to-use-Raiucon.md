@@ -1,4 +1,4 @@
-#How to use Raiucon for BF3?
+#How to use Raiucon for Battlefield 3?
 
 ### 1) What is Raiucon?
 
