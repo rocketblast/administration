@@ -1,8 +1,8 @@
-#How to use RocketCon for BF4?
+#How to use RocketCon for Battlefield 4?
 
 ### 1) What is Rocketcon?
 
-Rocketcon is a web based tool that we use to administrate our BF4 servers, 
+Rocketcon is a web based tool that we use to administrate our Battlefield 4 servers, 
 ![alt tag](http://i.imgur.com/VZWF8WN.png)
 
 ### 2) How do I use it?
