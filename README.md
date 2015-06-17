@@ -3,8 +3,8 @@ This is the place where you can find documentation about in-game commands and ot
 servers. Feel free to contribute through Pull requests and issues.
 
 ## Table of Contents
-* **[Counter Strike Admin Guides](counterstrike)**   
-* **[Battlefield Admin Guides](battlefield)**   
+* **[Counter Strike Admin Guides](counterstrike/README.md)**   
+* **[Battlefield Admin Guides](battlefield/README.md)**   
 * **[Admin Rules](rules-for-admins.md)** 
 * **[Slack Information](slack.md)**  
 * **[TS3 Information]( teamspeak3.md)**  
