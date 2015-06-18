@@ -12,7 +12,7 @@ friendly to players and if they are in need of assistance you must attempt to as
 
 You must never breach or assist in a breach of ToS. You must never abuse your admin powers. You must never use your admin powers to abuse
 players. You must never use admin powers for reasons that aren't related to administration. You must never attempt to damage Rocketblast servers. You must never attempt to gain access to parts of the Web CPs 
-which you are not meant to access. You must never abuse other admins. 
+which you are not meant to access. You must never abuse other admins. You also must not spam other admins or players.
 
 ### The consequences
 
