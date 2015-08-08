@@ -31,7 +31,7 @@ wish to send, if you are banning a player you must also select the time of the b
 
 Firstly click 'Server' you will then be presented with 3 options
 ![alt tag](http://i.imgur.com/0YBwQfu.png)
-You can target your commands to a specific team or all players om the server.
+You can target your commands to a specific team or all players on the server.
 
 ### 6) I banned a player what should I do now?
 
