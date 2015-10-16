@@ -29,6 +29,7 @@ Most arguments are considered special in this system. Normal arguments would be 
 ##Durations
 * an hour (hour, 1hour)
 * a day (day, 1day)
+* a week (1w)
 * a month (month, 1month)
 * permanently
 
